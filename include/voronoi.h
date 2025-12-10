@@ -11,7 +11,7 @@
  * - Processes two types of events: Site events and Circle events
  * - Produces a Voronoi diagram in O(n log n) time
  *
- * @author CSC 372 Student
+ * @author Jack Woods, Ashleigh Kirkpatrick
  * @date 2025
  */
 

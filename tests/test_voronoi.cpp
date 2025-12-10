@@ -20,7 +20,7 @@
  *   4. Worst case scenarios
  *   5. Error handling
  * 
- * @author Jack Woods
+ * @author Jack Woods, Ashleigh Kirkpatrick
  * @date 2025
  */
 
@@ -698,10 +698,10 @@ void test12_FileImport()
  */
 void test13_PerformanceTest()
 {
-    std::string input = "50, 100, 200, 400 sites";
+    std::string input = "25, 50, 100, 200, 400, 800, 1600, 3200, 6400, 12800 sites";
     std::string expected = "Execution times scale reasonably";
     
-    std::vector<int> sizes = {50, 100, 200, 400};
+    std::vector<int> sizes = {25, 50, 100, 200, 400, 800, 1600, 3200, 6400, 12800};
     std::vector<double> times;
     
     std::stringstream actual;

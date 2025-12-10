@@ -15,7 +15,7 @@ Features:
 - Colorful territory regions for each ant colony
 - Interactive controls
 
-Author: Jack Woods
+Author: Jack Woods, Ashleigh Kirkpatrick
 Date: 2025
 
 Requirements:

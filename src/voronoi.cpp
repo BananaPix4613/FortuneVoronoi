@@ -9,7 +9,7 @@
  * Time Complexity: O(n log n)
  * Space Complexity: O(n)
  *
- * @author Jack Woods
+ * @author Jack Woods, Ashleigh Kirkpatrick
  * @date 2025
  */
 

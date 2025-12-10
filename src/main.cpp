@@ -14,7 +14,7 @@
  *   ./voronoi_generator -n <count>         # Generate n random sites
  *   ./voronoi_generator -o <output_file>   # Specify output file
  * 
- * @author Jack Woods
+ * @author Jack Woods, Ashleigh Kirkpatrick
  * @date 2025
  */
 
